@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance from His Excellency Sir Thomas Fairfax, and his Councell of Warre, concerning the late discontent and distraction in the Army. With his Excellencies declaration of himselfe, and expectation from the Army thereupon, for the future uniting of the Army. Published by his Excellency at the head of every regiment, at the first randezvouze of the Army in Cork-bush Field between Hartford and Ware, Munday Novemb. 15. 1647. By the appointment of his Excellency, and the Councell of Warre, signed, John Rushworth, Secr. Novembr. 16. Imprimatur, Gilb. Mabbot.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84954</idno>
+            <idno type="STC">Wing F228</idno>
+            <idno type="STC">Thomason E414_14</idno>
+            <idno type="STC">ESTC R201982</idno>
+            <idno type="EEBO-CITATION">99862447</idno>
+            <idno type="PROQUEST">99862447</idno>
+            <idno type="VID">161283</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84954)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161283)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E414[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance from His Excellency Sir Thomas Fairfax, and his Councell of Warre, concerning the late discontent and distraction in the Army. With his Excellencies declaration of himselfe, and expectation from the Army thereupon, for the future uniting of the Army. Published by his Excellency at the head of every regiment, at the first randezvouze of the Army in Cork-bush Field between Hartford and Ware, Munday Novemb. 15. 1647. By the appointment of his Excellency, and the Councell of Warre, signed, John Rushworth, Secr. Novembr. 16. Imprimatur, Gilb. Mabbot.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Whittington, at the Blew Anchor in Cornhill neere the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Political activity --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161283:1" rendition="simple:additions"/>
+            <p>A REMONSTRANCE From His Excellency Sir Thomas Fairfax, AND His COUNCELL of WARRE, CONCERNING The late diſcontent and diſtraction in the Army. With his Excellencies Declaration of himſelfe, and expectation from the Army thereupon, for the future uniting of the Army.</p>
+            <p>Publiſhed by his Excellency at the Head of every Regiment, at the firſt Randezvouze of the Army in <hi>Cork-buſh</hi> Field between <hi>Hartford</hi> and <hi>Wars, Munday Novemb.</hi> 15. 1647.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>BY the Appointment of his Excellency, and the Councell of Warre,</p>
+                        <closer>
+                           <signed>Signed, <hi>JOHN R<g ref="char:V">Ʋ</g>SHWORTH,</hi> Secr.</signed>
+                        </closer>
+                        <postscript>
+                           <opener>
+                              <dateline>
+                                 <date>Novembr. 16.</date>
+                              </dateline>
+                           </opener>
+                           <p>Imprimatur,</p>
+                           <closer>
+                              <signed>Gilb. Mabbot.</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Whittington,</hi> at the Blew Anchor in Cornhill neere the Royall Exchange, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="formal_statement">
+            <pb facs="tcp:161283:2"/>
+            <pb facs="tcp:161283:2"/>
+            <head>A Remonſtrance from His Excellency Sir <hi>Thomas Fairfax,</hi> and his Councell of VVarre.</head>
+            <p>THat ever ſince the Engagement of the arrmy at New<g ref="char:EOLhyphen"/>market Heath, his Excellency, with the Generall Offi<g ref="char:EOLhyphen"/>cers, and Generall Councell of the Army [to which that Engagement refers] have beene doing their duty and b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt endeavours for the good of the army &amp; king<g ref="char:EOLhyphen"/>dome, according to the ends of that Engagement, and the Declarations and other Papers that have ſince paſt from the army: and in this [according to their conſciences, and the beſt of their un<g ref="char:EOLhyphen"/>derſtandings] they have done the utmoſt they could without preſent deſtruction to the Parliament, which in their opinions would inevita<g ref="char:EOLhyphen"/>bly have put the Kingdom into bloud and confuſion, and ſo both the Army and Kingdom into an incapacity or paſt all rationall hopes of at<g ref="char:EOLhyphen"/>taining or enjoying that ſatisfaction or ſecurity, for which the Engage<g ref="char:EOLhyphen"/>ment was entred into: and if they have neglected any thing, wherein they might have done better, They have been ready (as ſtill they are) to be convinc'd thereof, and to amend the default, and to hearken to what any man would ſoberly offer for that purpoſe, or to lead them to any thing better.</p>
+            <p>That while they have thus been doing their duty [beſides many o<g ref="char:EOLhyphen"/>ther interruptions or diverſions, by the deſignes and workings of Ene<g ref="char:EOLhyphen"/>mies] they have of late found the greateſt interruption to their pro<g ref="char:EOLhyphen"/>ceedings, by a few men, Members of the army, who [without any au<g ref="char:EOLhyphen"/>thority or juſt cauſe thereunto that we know of, aſſuming the name of Agents for ſeverall Regiments] have [for whatends we know no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>]
+<pb facs="tcp:161283:3"/>taken upon them to act as a divided party from the ſaid Councell and army, and aſſociating themſelves with, or rather [as we have juſt cauſe to believe] giving themſelves up to be acted or guided by divers pri<g ref="char:EOLhyphen"/>vate perſons that are not of the army] have endeavoured by various falſhoods and ſcandals, raiſed &amp; divulged in Print, &amp; otherwiſe againſt the Generall, the General Officers and Councell, to poſſeſſe the Army &amp; kingdome with jealouſies of them, &amp; prejudice againſt them [as if they were taln from their principles, had broken their Engagements &amp; Declarations, &amp; thereby forfeited their Truſt, &amp; were in their whole proceedings falſe and treacherous both to the army and Kingdome.] and by theſe &amp; other practiſes, the ſaid agents &amp; their aſſociates, have laboured to make parties and factions in the army, to raiſe diſcontents, muti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, and diſorders therein, to divide the ſouldiers from the Offi<g ref="char:EOLhyphen"/>cers, &amp; both Officers &amp; ſouldiers amongſt themſelves, and to withdraw ſeverall parts of the army from their duty &amp; obedience to the Gene<g ref="char:EOLhyphen"/>rals Orders (and that) in things moſt neceſſary for the ſafety of the ar<g ref="char:EOLhyphen"/>my and Kingdome.</p>
+            <p>And thus while they cauſeleſly cry out againſt breach of Engage<g ref="char:EOLhyphen"/>ments, and dividing the army, they themſelves have made, or endeavou<g ref="char:EOLhyphen"/>red to make the greateſt breaches of the Engagements, &amp; greateſt divi<g ref="char:EOLhyphen"/>ding of the army that can be; a dividing moſt truly contrary to the Engagement: a dividing, which is as bad &amp; deſtructive, as disband<g ref="char:EOLhyphen"/>ing; even the diſſolution of all that Order, Combination, and Govern<g ref="char:EOLhyphen"/>ment, which is the Eſſence of anarmy: and under falſe deluſive preten<g ref="char:EOLhyphen"/>ces [that the Engagements have been broken] they have endeavoured really to looſen and draw the army off from its former Engagements, and to draw it into new Engagements, different from, and (in ſome things) deſtructive to the former; and have thus endangered the grea<g ref="char:EOLhyphen"/>teſt forfeiture of the Faith and Honour of the army, that ever it incur<g ref="char:EOLhyphen"/>red.</p>
+            <p>And whileſt they cry out, that there is nothing done, they themſelves have made the greateſt obſtructions, to the doing of any good for the army or Kingdome, both in the hinderances and delayes to our procee<g ref="char:EOLhyphen"/>dings, and the expence of time, which their workings have occaſioned (either to have ſatisfied them, (if it had been poſſible) or elſe to ſolve and quiet thoſe diſcontents and diſtractions which they have raiſed in the army) and alſo by the occaſions which the Parliament and King<g ref="char:EOLhyphen"/>dome (yea even our beſt friends in both) have thus received, to diſcou<g ref="char:EOLhyphen"/>rage them from complyance with, or confidence in, an army, ſo uncer<g ref="char:EOLhyphen"/>tain, ſo unſetled, ſo divided.</p>
+            <pb facs="tcp:161283:3"/>
+            <p> For theſe Cauſes, the Gen. hath thought fit to Randezvouz the Army or ſuch parts of it as are not fixt uppon neceſſary duty elſewhere. And having (with advice of the generall Councell,) ſent to the Parliament more importunately then before, for ſpeedy ſatisfaction to the Army in their juſt deſires (eſpecially in point of proviſion for conſtant pay, to a<g ref="char:EOLhyphen"/>void free Quarter, and of ſecurity for Arreares.) thought it beſt (with the ſame advice) to diſmiſſe moſt of the Officers, and Agitators from the Head Quarters for a fortnight unto their reſpective Regiments to ſatisfie and compoſe thoſe diſcontents and diviſions which have thus been raiſed in them; and for eaſe to the Countrey and accomodation to the Souldiery (with reſpect to the ſeaſon of the yeare) thought fit to contract the Quarters of the Army in three Brigades, and to draw them to three ſeverall Randezvouzes, not far from each other, and this in order to one generall Randezvouz, if there ſhould be any occaſion: And, in this, the ſeverall Regiments of Horſe and Foote have been ap<g ref="char:EOLhyphen"/>pointed to conſtant Quarters in order to thoſe ſeverall Randezvouzes taking them directly in order as their ſeverall Quarters lay before, without any other reſpect or conſideration; but even theſe things the ſaid pretended Agents and their Aſſociates have laboured to pervert, &amp;c. and make advantage of, to the aforeſaid ends of diſcontent and di<g ref="char:EOLhyphen"/>ſtraction, and to repreſent the ſame to the ſeverall Regiments as done in purſuance of the ſame treacherous Councells and deſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s which they had before ſuggeſted, and what good they could not deny to be in the things, they aſſume to themſelves, as gained by their procurement, and ſo greedily catched at the ſole credit of it, as if the Gen. and his Councel, (but for them) had not done it, and by letters or Meſſages, contradicting the generall order, they have (under ſuch ſcandalous pre<g ref="char:EOLhyphen"/>tenc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s) laboured to draw divers Regiments from the Quarters and Randezvouzes to which they were ordered; unto the firſt Randezvouz neare <hi>Ware,</hi> in a diſorderly and confuſed manner to the oppreſſion of the Countrey and diſaccomodation (if not quarrelling and diſtraction) of the Souldiery quartering.</p>
+            <p>That without redreſſe of theſe abuſes and diſorders, his Excellency cannot nor will, any longer undergoe or undertake further to diſcharge his preſent Truſt to the Parliament, the Army and Kingdom.</p>
+            <p>That though he is farre above any ſuch lowe thoughts as to Court or wooe the Army to continue him their Generall, yet, to diſcharge himſelfe to the utmoſt, and bring the buſineſſe to a clear and certaine Iſſue, his Excellency does now declare.</p>
+            <pb facs="tcp:161283:4"/>
+            <p> That he is yet willing to adheare to and to conduct a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d live and dy with the Army in the lawfull proſecution of theſe things following viz.</p>
+            <div n="1" type="part">
+               <list>
+                  <head>I. For the Souldiery to obtaine.</head>
+                  <item>1. Preſent prov<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſion for conſtant pay, while continued, to make them to diſcharge Quarters.</item>
+                  <item>2. The preſent ſtating of accounts, and ſecurity for arreares, with an effectuall and ſpeedy courſe to raiſe monies thereupon.</item>
+                  <item>3. Sufficient Indempnity, and Commiſſioners in every County for that purpoſe.</item>
+                  <item>4. Proviſion for maymed Souldiers, and the Widowes and Orpha<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s of men ſlaine in the ſervice (and that in a certain and no diſhonourable way) with Commiſſioners in every County for that purpoſe.</item>
+                  <item>5. Proviſion for freedome from preſſing, according to the firſt Petition of the <hi>Army.</hi>
+                  </item>
+                  <item>6. Proviſion for freedome of Prentices, that have ſerved in the warres, with a penalty upon M<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſters refuſing to give it.</item>
+               </list>
+            </div>
+            <div n="2" type="part">
+               <head>II. For the Kingdome.</head>
+               <p>A period to be ſet for this preſent Parliam<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt (to end as ſoon as may be with ſafety) and proviſion thereunto to be made for future Parliaments.</p>
+               <p>For the certainty of their Meeting, ſitting, and ending, and for the free<g ref="char:EOLhyphen"/>dome and equality of Elections thereto [to render the Houſe of C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmons as neare as may be an equall Repreſentative of the People that are to e<g ref="char:EOLhyphen"/>lect.]</p>
+               <p>And (according to the Repreſentation of the Army of <hi>June</hi> 14.) to leave other things to and acquieſſe in the dete<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>minations of Parliament; But to mind the Parliament of and to mediate with them fo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dreſſe of the common grievances of the people, and all other things that the army have declared their deſires for.</p>
+               <p>That upon his Excellencies continued conjunction in theſe things, He ex<g ref="char:EOLhyphen"/>pects, That for the particular circumstance of them, the army ſhall [accor<g ref="char:EOLhyphen"/>ding to their aforeſaid firſt Engagement] acquieſſe in what ſhall be a<g ref="char:EOLhyphen"/>greed unto by the Generall Councell of the Army, to which that Engage<g ref="char:EOLhyphen"/>ment referres; and [for the matter of the ordering, conduct, and government of the army] That <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry Mem<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of it ſhall be obſervant of, and ſubject to his Excellency, his Councell of warre, and every one to his ſuperiour Of<g ref="char:EOLhyphen"/>ficers, according to the Diſcipline of warre; for aſſurance whereof, he ex<g ref="char:EOLhyphen"/>pects, that as many as are ſatisfied h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re with, and do agree hereunto, doe ſe<g ref="char:EOLhyphen"/>verally ſubſcribe to what is here under <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tten for that purpoſe.</p>
+            </div>
+         </div>
+         <div type="document">
+            <pb facs="tcp:161283:4"/>
+            <p>VVEE the Officers and Souldiers of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> Regiment of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> whoſe Names are ſubſcribed, do hereby declare, That we are ſatisfied in his Ex<g ref="char:EOLhyphen"/>cellency, the Generalls continued conjunction with the Army, in the lawfull proſecution of the things here before declared, to be proſecuted for the Souldiery and Kingdome reſpectively; And (for the particular circumſtances of them) we ſhall (according to the generall Engagement of the Army above mentioned) acquieſſe in what ſhall be agreed unto by the General Councell of the Army, to which that Engagement referres; and for matter of the ordering, conduct, and go<g ref="char:EOLhyphen"/>vernment of the Army, we ſhall be obſervant of and ſubject to his Excellencie, his Councell of Warre, and (every one of us) to our Superiour Officers in this Regiment and the Army, ac<g ref="char:EOLhyphen"/>cording to the Diſcipline of Warre. <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
